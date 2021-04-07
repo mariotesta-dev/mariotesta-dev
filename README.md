@@ -2,7 +2,7 @@
 
 Currently working on:
 <ul>
-  <li>[<img src="https://static.thenounproject.com/png/30134-200.png" height="16px" width="16px"> Cards Against Humanity (ITA)]</li>
+  <li><img src="https://static.thenounproject.com/png/30134-200.png" height="16px" width="16px"> Cards Against Humanity (ITA)</li>
   <li>Some other secret stuff...</li>
   
 Coding addict. (C, Java, JavaScript, Python, C++, ...)   
