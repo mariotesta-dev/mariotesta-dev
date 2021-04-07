@@ -1,12 +1,9 @@
-<h1 align=center>Mario Testa</h1>
-
-Currently working on:
-> <img src="https://static.thenounproject.com/png/30134-200.png" height="16px" width="16px"> Cards Against Humanity (ITA)</li>
-> Some other secret stuff...</li>
-> Coding addict. (C, Java, JavaScript, Python, C++, ...)   
+Currently working on [<img src="https://bloximages.newyork1.vip.townnews.com/breezejmu.org/content/tncms/assets/v3/editorial/3/51/35192610-d678-11e4-ae9d-bf25d10f105c/5518a0424edd3.image.png" height="20px" width="20px"> Cards Against Humanity ITA](https://cardsagainsthumanityita.net)  
+and some other stuff.  
   
-   
+  
+> <img src="https://avatars.githubusercontent.com/u/50962465?v=4" height="30px" width="30px"> `mariotesta-dev`  
 >
-> ![Arthurdw](https://komarev.com/ghpvc/?username=arthurdw&label=Profile%20views&color=0e75b6&style=flat)
+> ![mariotesta-dev](https://komarev.com/ghpvc/?username=mariotesta-devw&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Metrics](./github-metrics.svg)
