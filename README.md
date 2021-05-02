@@ -1,4 +1,4 @@
-Co-Founder & Developer at [<img src="https://i.ibb.co/W27B59m/Senza-titolo-2.png" height="20px" width="20px"> Streemn](https://streemn.com)  
+Co-Founder & Developer at [<img src="https://i.ibb.co/W27B59m/Senza-titolo-2.png" height="17px" width="17px"> Streemn](http://streemn.com)  
  
   
   
