@@ -1,4 +1,5 @@
-Co-Founder & Developer at [<img src="https://i.ibb.co/W27B59m/Senza-titolo-2.png" height="17px" width="17px"> Streemn](http://streemn.com)  
+Artificial Intelligence & Data Analytics student @ Politecnico di Torino.
+Working on [<img src="https://i.ibb.co/W27B59m/Senza-titolo-2.png" height="17px" width="17px"> Streemn](http://streemn.com)  
  
   
   
