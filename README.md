@@ -1,4 +1,4 @@
-Artificial Intelligence & Data Analytics student @ Politecnico di Torino.
+Artificial Intelligence & Data Analytics student @ Politecnico di Torino. <br/>
 Working on [<img src="https://i.ibb.co/W27B59m/Senza-titolo-2.png" height="17px" width="17px"> Streemn](http://streemn.com)  
  
   
