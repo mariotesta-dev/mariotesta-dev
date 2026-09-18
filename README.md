@@ -1,4 +1,4 @@
-AI Engineer @LINKS Foundation | AI, ML, Data, Software | M.Sc. Computer Engineering (AI & Data Analytics) @ Politecnico di Torino. <br/>
+AI Engineer @[Jet HR](https://www.jethr.com/) | AI, ML, Data, Software | M.Sc. Computer Engineering (AI & Data Analytics) @ Politecnico di Torino. <br/>
  
   
   
